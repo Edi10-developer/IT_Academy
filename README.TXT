@@ -1,0 +1,1 @@
+Hola mi nombre es Edi Selimi y este es mi repositorio Git por el curso IT Academy de Barcelona Activa
